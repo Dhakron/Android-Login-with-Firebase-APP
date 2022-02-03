@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- region Commons -->
+    <string name="app_name">Multicount</string>
+    <string name="title_data">data</string>
+    <string name="title_domain">domain</string>
+    <string name="title_usecases">usecases</string>
+    <string name="invalid_email">El correo electrónico debe ser válido</string>
+    <string name="invalid_password_min_length">La longitud de la contraseña debe ser mayor o igual a %d</string>
+    <string name="invalid_password_max_length">La longitud de la contraseña no puede ser mayor a %d</string>
+    <string name="invalid_confirm_password">Las contraseñas no coinciden</string>
+    <!-- endregion -->
+
+    <!-- region Register -->
+    <string name="email_hint">Correo electrónico</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="confirm_password_hint">Confirmar contraseña</string>
+    <string name="create_new_account">Registrarse</string>
+    <string name="sign_in_with_google">Iniciar sesión con Google</string>
+    <string name="sign_in_with_facebook">Iniciar sesión con Facebook</string>
+    <string name="sign_in_as_guest">Iniciar sesión como invitado</string>
+    <string name="already_have_account">Ya tienes cuenta?</string>
+    <string name="sign_in">Iniciar sesión</string>
+    <!-- endregion Register -->
+</resources>

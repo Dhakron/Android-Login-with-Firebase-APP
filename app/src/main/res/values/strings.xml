@@ -1,0 +1,25 @@
+<resources>
+    <!-- region Commons -->
+    <string name="app_name">Multicount</string>
+    <string name="title_data">data</string>
+    <string name="title_domain">domain</string>
+    <string name="title_usecases">usecases</string>
+    <string name="invalid_email">The email must be valid</string>
+    <string name="invalid_password_min_length">The password length must be %d or higher</string>
+    <string name="invalid_password_max_length">The passwords length can\'t be higher than %d</string>
+    <string name="invalid_confirm_password">The passwords doesn\'t match</string>
+    <!-- endregion -->
+
+    <!-- region Register -->
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="sign_in_with_facebook">Sign in with Facebook</string>
+    <string name="sign_in_as_guest">Sign in as guest</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="sign_in">Sign in</string>
+    <!-- endregion Register -->
+
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "285773801556",
+    "project_id": "multicountdev",
+    "storage_bucket": "multicountdev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285773801556:android:8ff85967ee243bdd2c65c1",
+        "android_client_info": {
+          "package_name": "com.app.multicount"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285773801556-70hf2h7jda2l6l4edrqea3j3fsphu7h5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.multicount",
+            "certificate_hash": "f667678b60b899a6f72f83eb2124ae605557c14f"
+          }
+        },
+        {
+          "client_id": "285773801556-dpijcsshvcgdf4eesc5uue4e0le2fcqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvQzCxk8IJcjA3K0G9fva9nQQG7Lo0Ijo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285773801556-dpijcsshvcgdf4eesc5uue4e0le2fcqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

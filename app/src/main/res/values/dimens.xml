@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- region TextSize -->
+    <dimen name="page_title_size">20sp</dimen>
+
+    <dimen name="menu_title_size">14sp</dimen>
+    <dimen name="item_title_size">16sp</dimen>
+    <dimen name="item_subtitle_size">14sp</dimen>
+
+    <dimen name="text_input_size">16sp</dimen>
+    <dimen name="text_input_error_size">12sp</dimen>
+
+    <dimen name="text_smaller_size">12sp</dimen>
+    <dimen name="text_medium_size">14sp</dimen>
+    <dimen name="text_big_size">16sp</dimen>
+    <!-- endregion TextSize -->
+</resources>
